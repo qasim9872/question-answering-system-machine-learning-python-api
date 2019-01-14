@@ -1,0 +1,18 @@
+select var_a where brack_open dbr_Sae_Miyazawa <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Rachel_McFarlane <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Jack_Yellen <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Valya_Balkanska <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Marvin_Winans_Jr <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_William_Dillon <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Madison_Beer <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Manos_Loïzos <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Blind_Willie_McTell <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Maimuna sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Florin_Cezar_Ouatu sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Christos_Mylordos sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Sandie_Shaw sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Alsou sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Dmitry_Koldun sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Hind_Laroussi sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Diana_Gurtskaya sep_dot var_x dbp_language var_uri brack_close

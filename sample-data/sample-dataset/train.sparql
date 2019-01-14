@@ -1,0 +1,96 @@
+select var_a where brack_open dbr_Ricardo_Mollo <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Alka_Yagnik <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Roy_Hamilton <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Alvin_Ranglin <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Peter_Tork <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Lord_Finesse <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Carmen_Miranda <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Kjetil-Vidar_Haraldstad <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Lindsey_Buckingham <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Gospel_of_Nicodemus <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Rie_Furuse <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Tom_Clarke_(musician) <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Toddla_T <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Kristin_Korb <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Anca_Parghel <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Carles_Sabater <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Steve_Lacy <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Scott_Joplin <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Masami_Mitsuoka <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Nükhet_Duru <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_George_Tickner <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Myriam_Hernández <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Kutt_Calhoun <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Zoltan_Bathory <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Terry_Gilkyson <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Deluxe_(musician) <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Neil_Leyton <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Patrick_Stickles <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Arabesque_(rapper) <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Patrick_Lindner <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Kirsten_Flagstad <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Tom_Jones_(singer) <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Krassimir_Avramov <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Masahiro_Matsuoka <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Raman_Kalyan <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Scott_Stapp <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Mick_Quinn <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Albert_King <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Eddie_Kirkland <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Homer_Flynn <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Blind_Willie_McTell <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Dub_Proof <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Dub_Proof <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_MFSB <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Tribe_of_Gypsies <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Dub_Proof <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_MFSB <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_MFSB <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_The_LeGarde_Twins <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_Tribe_of_Gypsies <dbo_associatedMusicalArtist> var_a brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Mumiy_Troll sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Max_Jason_Mai sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Anastasia_Vinnikova sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Christina_Metaxa sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Cliff_Richard sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Anna_Abreu sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Martin_Stenmarck sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Carl_Espen sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Pasha_Parfeny sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Jessica_Garlick sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Vajta sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Liam_Kelly_(musician) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Gunvor_Guggisberg sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_The_Shin sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Mariko_Ebralidze sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Christer_Björkman sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Knez_(singer) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Kathy_Kirby sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Nina_Inhammar sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Marco_Matias_(musician) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Blossom_Tainton-Lindquist sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Daz_Sampson sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Monika_Linkytė sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Uzari sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Eva_Santamaría sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Jenny_Frost sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Ronnie_Carroll sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Glen_Campbell sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_David_Byrne sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Evdokia_Kadi sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Neiokõsõ sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Zdob_şi_Zdub sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Ivo_Linna sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Olta_Boka sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Emma_(Welsh_singer) sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Xandee sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Tommy_Faragher sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Björn_Ulvaeus sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Suntribe sep_dot var_x dbp_language var_uri brack_close

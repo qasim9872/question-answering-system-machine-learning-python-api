@@ -1,0 +1,14 @@
+DEBUG:root:1. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a a dbo:MusicalArtist . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/abstract> [] . ?a a <http://dbpedia.org/ontology/MusicalArtist> 
+DEBUG:root:*** Query error. Empty result set. ***
+DEBUG:root:2. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a a dbo:MusicalArtist . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/abstract> [] . ?a a <http://dbpedia.org/ontology/MusicalArtist> 
+DEBUG:root:*** Query error. Empty result set. ***
+DEBUG:root:3. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/abstract> [] . ?a a <http://dbpedia.org/ontology/MusicalArtist> 
+DEBUG:root:*** Query error. Empty result set. ***
+DEBUG:root:0 matches for 1
+DEBUG:root:no data for 1
+INFO:root:     0 used resources in 0 placeholder positions
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     1 not instanciated templates:
+INFO:root:1

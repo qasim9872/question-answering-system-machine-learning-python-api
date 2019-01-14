@@ -1,0 +1,22 @@
+DEBUG:root:1. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a a dbo:MusicalArtist . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/abstract> [] . ?a a <http://dbpedia.org/ontology/MusicalArtist> }
+DEBUG:root:10000 matches for 1
+DEBUG:root:1. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a a dbo:Place . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/associatedMusicalArtist> [] . ?a a <http://dbpedia.org/ontology/Place> }
+DEBUG:root:2. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a a dbo:Place . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/associatedMusicalArtist> [] . ?a a <http://dbpedia.org/ontology/Place> }
+DEBUG:root:3. attempt generator_query: select ?a  (str(?laba) as ?la) where { ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a <http://dbpedia.org/ontology/associatedMusicalArtist> [] . ?a a <http://dbpedia.org/ontology/Place> }
+DEBUG:root:22 matches for 2
+DEBUG:root:1. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a <http://dbpedia.org/class/yago/Entertainer109616922|http://dbpedia.org/ontology/MusicalArtist> . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbp:artist ?a . ?x dbp:language ?uri }
+DEBUG:root:*** Query error. Empty result set. ***
+DEBUG:root:2. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a <http://dbpedia.org/class/yago/Entertainer109616922|http://dbpedia.org/ontology/MusicalArtist> . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbp:artist ?a . ?x dbp:language ?uri }
+DEBUG:root:*** Query error. Empty result set. ***
+DEBUG:root:3. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbp:artist ?a . ?x dbp:language ?uri }
+DEBUG:root:142 matches for 522b9a5a5c03491bbbb0b8eb89fc063f
+INFO:root:   106 used resources in 122 placeholder positions
+INFO:root:   101 resources occur 	     1 times 	( 95.00 %) 
+INFO:root:     2 resources occur 	     2 times 	(  1.00 %) 
+INFO:root:     1 resources occur 	     3 times 	(  0.00 %) 
+INFO:root:     1 resources occur 	     4 times 	(  0.00 %) 
+INFO:root:     1 resources occur 	    10 times 	(  0.00 %) 
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     0 not instanciated templates:

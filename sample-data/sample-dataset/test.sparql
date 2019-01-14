@@ -1,0 +1,8 @@
+select var_a where brack_open dbr_Wynton_Kelly <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_Chihiro_Anai <dbo_abstract> var_a brack_close
+select var_a where brack_open dbr_MFSB <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+select var_a where brack_open dbr_El_DeBarge <dbo_associatedMusicalArtist> var_a brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Maya_Sar sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Klapa_s_Mora sep_dot var_x dbp_language var_uri brack_close
+SELECT DISTINCT COUNT attr_open var_uri attr_close where brack_open var_x dbp_artist dbr_Niels_Brinck sep_dot var_x dbp_language var_uri brack_close
