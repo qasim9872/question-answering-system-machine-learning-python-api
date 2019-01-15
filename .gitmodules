@@ -1,0 +1,4 @@
+[submodule "nmt-keras"]
+	path = nmt-keras
+	url = https://github.com/lvapeab/nmt-keras
+	branch = master
