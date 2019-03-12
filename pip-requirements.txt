@@ -1,0 +1,32 @@
+cloudpickle==0.6.1
+-e git+https://github.com/lvapeab/coco-caption.git@78d09e43fa8038d1c6b2768a2784e09b67c6f3bc#egg=coco_caption
+future==0.17.1
+futures==3.2.0
+h5py==2.9.0
+-e git+https://github.com/MarcBS/keras.git@4bf658100982913820bb0eaa60ccab1ca492148d#egg=Keras
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+kiwisolver==1.0.1
+Markdown==3.0.1
+matplotlib==2.2.3
+more-itertools==5.0.0
+-e git+https://github.com/lvapeab/multimodal_keras_wrapper.git@e24e584e939ae3860fd83a654f1285fc05bf9e5f#egg=keras_wrapper
+numexpr==2.6.9
+numpy==1.15.4
+pandas==0.23.4
+pep8==1.7.1
+pytest==4.1.0
+pytest-cache==1.0
+pytest-cov==2.6.1
+pytest-forked==0.2
+pytest-pep8==1.0.6
+pytest-xdist==1.25.0
+sacremoses==0.0.5
+scikit-image==0.14.1
+scikit-learn==0.20.2
+scipy==1.2.0
+six==1.12.0
+tables==3.4.4
+tensorboard==1.12.2
+tensorflow==1.12.0
+Theano==1.0.3
